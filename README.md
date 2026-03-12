@@ -21,5 +21,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+v
 
 RESULT:
+![WhatsApp Image 2026-03-12 at 11 35 16 AM](https://github.com/user-attachments/assets/90e6afd5-4d16-4bda-8b58-829bf0143096)
+
